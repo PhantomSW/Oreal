@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="84.071" height="83.572" viewBox="0 0 84.071 83.572">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_110" data-name="Rectangle 110" width="83.572" height="83.572" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="icon-admin" transform="translate(-899.929 -975.754)">
+    <ellipse id="Ellipse_15" data-name="Ellipse 15" cx="42" cy="41.5" rx="42" ry="41.5" transform="translate(900 976)" fill="#fff"/>
+    <g id="Groupe_338" data-name="Groupe 338" transform="translate(899.929 975.754)">
+      <path id="Tracé_695" data-name="Tracé 695" d="M61.792,45.35V92.856H90.836l7.032-6.407V45.35ZM95.854,85.559l-5.594,5.1V85.539h5.594Zm0-38.2v36.16H88.246v7.318H63.806V47.364" transform="translate(-32.296 -23.703)" fill="#7e807a"/>
+      <path id="Tracé_696" data-name="Tracé 696" d="M45.953,79.04l-4.739,1.253L30.1,38.261,61.08,30.066,63.2,38.089h2.083L62.512,27.6,27.635,36.829,39.783,82.755l6.171-1.632Z" transform="translate(-14.444 -14.428)" fill="#7e807a"/>
+      <rect id="Rectangle_102" data-name="Rectangle 102" width="20.521" height="1.208" transform="translate(37.442 33.143)" fill="#7e807a"/>
+      <rect id="Rectangle_103" data-name="Rectangle 103" width="20.521" height="1.208" transform="translate(37.442 36.224)" fill="#7e807a"/>
+      <rect id="Rectangle_104" data-name="Rectangle 104" width="20.521" height="1.209" transform="translate(37.442 39.304)" fill="#7e807a"/>
+      <rect id="Rectangle_105" data-name="Rectangle 105" width="20.521" height="1.209" transform="translate(37.442 42.385)" fill="#7e807a"/>
+      <rect id="Rectangle_106" data-name="Rectangle 106" width="20.521" height="1.209" transform="translate(37.442 45.466)" fill="#7e807a"/>
+      <rect id="Rectangle_107" data-name="Rectangle 107" width="20.521" height="1.209" transform="translate(37.442 48.547)" fill="#7e807a"/>
+      <rect id="Rectangle_108" data-name="Rectangle 108" width="20.521" height="1.208" transform="translate(37.442 51.628)" fill="#7e807a"/>
+      <rect id="Rectangle_109" data-name="Rectangle 109" width="13.398" height="1.208" transform="translate(37.443 54.709)" fill="#7e807a"/>
+      <g id="Groupe_337" data-name="Groupe 337">
+        <g id="Groupe_336" data-name="Groupe 336" clip-path="url(#clip-path)">
+          <path id="Tracé_697" data-name="Tracé 697" d="M41.786,83.572A41.786,41.786,0,1,1,83.572,41.786,41.833,41.833,0,0,1,41.786,83.572m0-81.185a39.4,39.4,0,1,0,39.4,39.4,39.444,39.444,0,0,0-39.4-39.4" fill="#7e807a"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
